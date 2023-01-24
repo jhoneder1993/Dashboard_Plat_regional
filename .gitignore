@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Las carpetas
+/data
+/gis
+
+#arhivos
+*.csv
+*.xlsx
