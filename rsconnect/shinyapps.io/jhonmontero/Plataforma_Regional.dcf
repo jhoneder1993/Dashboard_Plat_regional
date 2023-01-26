@@ -1,0 +1,14 @@
+name: Plataforma_Regional
+title: Plataforma_Regional
+username:
+account: jhonmontero
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8137471
+bundleId: 6777522
+url: https://jhonmontero.shinyapps.io/Plataforma_Regional/
+when: 1674747790.40158
+lastSyncTime: 1674747790.40159
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|lab.jpg|lab.png|mapa/app.R

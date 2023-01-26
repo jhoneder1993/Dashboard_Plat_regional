@@ -1,0 +1,11 @@
+div.Mapa {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+  min-width: 1210px;
+  min-height: 720px;
+}
